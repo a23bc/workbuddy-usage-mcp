@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "session-usage": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/session_usage_server.py"
+      ]
+    }
+  }
+}
