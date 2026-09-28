@@ -1,5 +1,7 @@
 # workbuddy-usage-mcp
 
+> 中文文档：[README.zh-CN.md](./README.zh-CN.md)
+
 Expose your **WorkBuddy session usage** as an [MCP](https://modelcontextprotocol.io) server, so an agent can call it like any other tool.
 
 WorkBuddy writes per-session usage locally into `~/.workbuddy/workbuddy.db`
